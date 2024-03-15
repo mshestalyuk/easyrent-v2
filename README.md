@@ -1,8 +1,8 @@
 # EasyRent FrontEnd Documentation
 
 ## 1. GitHub Repository
-- Repository Link: [EasyRent FrontEnd](https://github.com/mshestalyuk/easyrent)
-- Repository Link: [EasyRent BackEnd](https://github.com/ZakharSytoi/EasyRentApplication)
+- Repository Link: [EasyRent FrontEnd](https://github.com/mshestalyuk/easyrent-v2)
+- Repository Link: [EasyRent BackEnd]()
 ## 2. Starting up the Application
 **Prerequisites:**
 - Angular 16
@@ -35,9 +35,6 @@ This will open the app in the browser at http://localhost:8080/.
 
 ## 4. Authors
 - **Maksymilian Shestalyuk**
-- **Darek Surdel**
-- **Truong Tra My**
-- **Zakhar Sytoi** [BackEnd Developer]
 
 
 
